@@ -100,7 +100,7 @@ hr {
 
 /*Header*/
 .navbar-default {
-  background: #fff;
+  background: #262424;
 }
 
 .navbar .fa-external-link {
@@ -168,11 +168,6 @@ hr {
 
 .sec-services h2 {
   margin: 1em 0;
-}
-
-/*Testimonials*/
-.sec-testimonials {
-  background: #f9f9f9;
 }
 
 /*Contact*/
