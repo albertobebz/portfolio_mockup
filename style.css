@@ -124,6 +124,8 @@ hr {
 }
 
 .main-heading {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 3em;
   position: absolute;
   top: 0;
   right: 0;
