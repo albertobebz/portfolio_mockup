@@ -139,11 +139,6 @@ hr {
   color: #fff;
 }
 
-.imac {
-  margin-top: 50px;
-  width: 60%;
-}
-
 /*About*/
 .sec-about a {
   color: #000;
@@ -173,6 +168,15 @@ hr {
 
 .sec-services h2 {
   margin: 1em 0;
+}
+
+.imac {
+  margin-top: 50px;
+  width: 60%;
+}
+
+.project3 {
+  width: 100%;
 }
 
 /*Contact*/
