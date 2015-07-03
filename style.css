@@ -179,6 +179,11 @@ hr {
   width: 100%;
 }
 
+.project4 {
+  width: 90%;
+  margin-top: 40px;
+}
+
 /*Contact*/
 .sec-contact .form-control:focus {
   border-color: #ad0000;
