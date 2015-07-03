@@ -5,4 +5,5 @@ $(function() {
       scrollTop: $($.attr(this, 'href')).offset().top
     }, 750);
   });
+  console.log('linked');
 });
